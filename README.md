@@ -1,2 +1,1 @@
-# BaseOut
-Basic outline.
+Just follow along the instructions provided. Places you can change will have comments by them, you can change the others, but I do not recommend it. This is a basic outline of how you should develop. It's efficient and provides some safe techniques.
